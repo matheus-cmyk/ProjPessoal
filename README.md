@@ -9,9 +9,5 @@ O ProjPessoal é uma aplicação fullstack web proposta pela a escola ULBRA São
 
 
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML / CSS 
 
