@@ -5,7 +5,7 @@
 
 
 
-O ProjPessoal é uma aplicação fullstack web proposta pela a escola ULBRA São Lucas durante o modolo de Introduçaõ de Web Site São Lucashttps https://www.ulbra.br/sao-lucas
+O ProjPessoal é uma aplicação fullstack web proposta pela a escola ULBRA São Lucas durante o modolo de Introduçaõ de Web Site São Lucas https://www.ulbra.br/sao-lucas
 
 
 ## Front end
